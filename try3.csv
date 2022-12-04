@@ -1,0 +1,86 @@
+prompt,completion
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver was not adequately trained.\n,instruction:Sufficient driver training is required.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver did not implement the control algorithm.\n,instruction:The driver is required to know the control algorithm in depth.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver is inexperienced.\n,instruction:The driver must have experience or with an experienced escort if he is new.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver does not remember the order of the algorithm of actions.\n,instruction:The operation algorithm must appear in front of the driver in writing on paper or on a dedicated tablet.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The locomotive driver fell asleep.\n,instruction:There must be an active auxiliary system to check driver alertness in the driver's cabin.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver received a personal phone call..\n,instruction: All distractions in the cockpit must be removed or reduced.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver felt severe pain in his body.\n,instruction: In copying cars there must be an assistant driver accompanying the driver for any emergency.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: Excessive fatigue of the driver (lack of vigilance).\n,instruction: In copying cars there must be an assistant driver accompanying the driver for any emergency.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver assumed that the track was free.\n,instruction: The driver must receive information from the control room and/or from copies in the field about the condition of the track.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver relied only on the copy's guidance to move forward without reference to the track condition.\n,instruction:It is the driver's responsibility to personally and visually verify the condition of the track in addition to guiding copies in the field.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver rushed to finish his last trip to the shift thinking that everything was free.\n,instruction:The driver must perform the task in the correct order and at the correct time.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: A problem of detecting the track condition.\n,instruction: The driver must verify in his wireless connection with the control center and with copies in the field the condition of the track before and during the operation.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: A problem with the driver's field of vision..\n,instruction: The driver must verify in his wireless connection with the control center and with copies in the field the condition of the track before and during the operation.
+UCA: The driver of the copying locomotive makes a trip while the condition of the track does not allow a continuous trip. lossScenario: The driver didn't know he was going too fast - the speedometer failed..\n,instruction: The driver must drive at the permitted speed when performing the task while monitoring the speedometer he has on the dashboard in the driver's cabin.
+UCA: Copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: Copy has not received sufficient training.\n,instruction: Adequate training is required to copy.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: The replica did not implement the control algorithm.\n,instruction: A copy is required to know the control algorithm in depth.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: Inexperienced copy.\n,instruction: Two giants must be in the field to help each other.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: The copy does not remember the order of the algorithm of operations.\n,instruction: The operation algorithm must appear in front of the copy written on paper or in a designated table.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: Copy by distraction.\n,instruction: The copy must be alert and attentive to the task it is performing.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: Copy received a personal phone call.\n,instruction: All distractions in the cockpit must be removed or reduced.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: The replicant felt strong pains in his stomach.\n,instruction: In copying cars there must be an assistant driver accompanying the driver for any emergency.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: Excessive fatigue of the brain (lack of alertness).\n,instruction: In copying cars there must be an assistant driver accompanying the driver for any emergency.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: The copy came from the premise that the brace was removed from the rail.\n,instruction: The copy must physically access the brace and verify its condition.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: Rely on remote visual inspection and assume the brace has been removed from the rail.\n,instruction: The copy must physically access the brace and verify its condition.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: The copy hurried to give instructions to the driver before thoroughly checking the condition of the brace.\n,instruction: The copy will verify by visual inspection in the field that there is no other brace placed on the rail.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: The problem of detecting the track condition.\n,instruction: The driver must verify in his wireless connection with the control center and with copies in the field the condition of the track before and during the operation.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: A problem with the field of view of the copy..\n,instruction: A copy will not give instructions to the copy locomotive driver if he is not sure of it.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: The copy does not have the option of associating each brace to which rail it belongs.\n,instruction: The copy will be equipped with all the necessary means to perform its operation.
+UCA: copy gives a drive command when the condition of the brace does not allow for safe travel. lossScenario: Copy noticed too late that there was still a brace on the rail.\n,instruction: Each brace must be tied with a cable attached to the rail and associated with the specific rail.
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver was not adequately trained.\n,instruction: Make sure the driver has adequate training.
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver did not implement the control algorithm..\n,instruction: The driver is required to know the control algorithm in depth.
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver is inexperienced.\n,"instruction: The driver must have experience or with
+An experienced lender if he is new."
+"UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver does not remember the order of the algorithm
+the actions.\n","instruction: The operation algorithm must appear against
+The driver is written on paper or on a tablet
+dedicated"
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The locomotive driver fell asleep.\n,instruction: There must be an active auxiliary system to check driver alertness in the driver's cabin.
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario: A fly enters the driver's eyes.\n,"instruction: In the copycats, there must be an assistant driver accompanying the driver for any emergency."
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver felt strong pains in his stomach.\n,"instruction: In the copycats, there must be an assistant driver accompanying the driver for any emergency."
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver received a personal phone call..\n,"instruction: In the copycats, there must be an assistant driver accompanying the driver for any emergency."
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:Excessive fatigue of the driver (lack of vigilance).\n,"instruction: There must be an active auxiliary system
+To test driver alertness in the driver's cab.."
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver assumed that Simnor was still broken.\n,instruction: The driver must receive information from the control room and/or from copies in the field about the state of the sign.
+"UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver relied on the copy's guidance only
+to advance without reference to Simnor.\n","instruction: It is the driver's responsibility to verify personally
+Visualize the status of the signal in addition
+to guide copies in the field."
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver was in a hurry to finish his last trip to the shift and did not obey to Simnor with the thought that everything is free.\n,instruction: The driver must perform the task in the correct order and at the correct time.
+UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:A problem with the driver's field of vision..\n,"instruction: The driver must verify his wireless connection
+with the control center and with copies in the field
+the status and color of the signal during execution
+the action."
+"UCA: The driver of the copying locomotive did not receive a report at the right time (too late) about the status of the signal can'ttravel. lossScenario:The driver noticed the signal out of time
+(too late).\n","instruction: The driver must verify his wireless connection
+with the control center and with copies in the field
+the status and color of the signal during execution
+the action"
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Copy has not received sufficient training.\n,instruction: Adequate training is required for Atek.
+"UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Copy did not implement their algorithm
+the control..\n","instruction: Copy is required to know the algorithm
+The control in depth.."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Inexperienced copy.\n,"instruction: Two giants must be in the field to help
+to each other."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:The copy does not remember the order of the algorithm of operations.\n,"instruction: The operation algorithm must appear against
+Copy in writing on paper or on a table
+dedicated."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Copy received a personal phone call.\n,"instruction: The copy must be alert and attentive
+for the task he is performing."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Copy by distraction.\n,"instruction: The copy must be alert and attentive
+for the task he is performing.."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:The copy felt bad. .\n,"instruction: The copy must be alert and attentive
+for the task he is performing."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Excessive fatigue of the brain (lack of alertness) .\n,"instruction: The copy must be alert and attentive
+for the task he is performing."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:The copy was based on the assumption that the wagons are connected to the copying locomotive .\n,"instruction: A copy must be physically accessed and connected
+the carriages for the copying locomotive."
+"UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:A copy connected the carriages in a non-
+OK. .\n",instruction: The copyist will verify by visual inspection that the connections between the parked cars and the copy locomotive are in good condition.
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Copy rushed to give instructions to the driver in front of me who thoroughly checked the condition of the wagons. .\n,"instruction: A copy will use a digital device
+To measure the distance between the parked cars
+To the copying locomotive and will give instructions to the driver accordingly.."
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:The copy was not accurate in providing instructions for the exact distance between the cars and the copying locomotive to the driver.\n,instruction: A copy will use a digital device to measure the distance between the parked carsTo the copying locomotive and will give instructions to the driver accordingly..
+UCA: A copyist gives a drive command when the state of the wagons does not allow for safe travel. lossScenario:Problem of correctly connecting wagons\n,"instruction: The driver will receive an indication in the cab that the line is connected
+Brake between the cars and the locomotive, a correct copy."
